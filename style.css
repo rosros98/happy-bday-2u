@@ -5,10 +5,6 @@
     font-family: "Pixelify Sans", sans-serif;
 }
 
-.hide-for-screenshot {
-    display: none !important;
-}
-
 body {
     background: radial-gradient(circle at center, #689bc8, #a978b8);
     margin: 0;
@@ -22,14 +18,14 @@ body {
 }
 
 #mainTitle {
-    font-size: 3rem;
+    font-size: 4rem;
     text-shadow: 0 0 15px #ff66ff;
     animation: glitch 2s infinite;
 }
 
 #subTitle {
-    font-size: 1.2rem;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
+    margin-top: 30px;
     opacity: 0.8;
 }
 
@@ -42,7 +38,7 @@ body {
 }
 
 .cake-container {
-    padding-right: 500px;
+    padding-right: 550px;
 }
 
 .cake {

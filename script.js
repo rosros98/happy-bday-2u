@@ -119,25 +119,4 @@ function blowOutCandles() {
     music.play();
 }
 
-// ================= SAVE IMAGE =================
-document.getElementById("saveBtn").onclick = () => {
-    const btn = document.getElementById("saveBtn");
-    const cake = document.querySelector(".cake");
-
-    btn.style.display = "none";
-
-    html2canvas(document.body, {
-        useCORS: true,
-        backgroundColor: null,
-        scale: 2
-    }).then(canvas => {
-        const link = document.createElement("a");
-        link.download = "birthday.png";
-        link.href = canvas.toDataURL();
-        link.click();
-
-        btn.style.display = "block";
-    });
-};
-
 startMicDetection();
