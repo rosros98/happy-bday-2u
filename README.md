@@ -11,7 +11,6 @@ Great for birthday greetings to your bestie or just fun surprises.
 ## ✨ Features
 
 - 🕯️ Blow out candles with your voice or breath using the microphone of your device.  
-- 🎞️ Press the "Save Memory 📸" button to create a .png screenshot. 
 - 🎵 Smoke clouds, confetti and music.  
 - 💻 Simple, responsive design — works on desktop and mobile.  
 
@@ -40,7 +39,6 @@ Give the permission to the browser to use the microphone - click on Allow.
 ### 4️⃣ Blow toward your device 🌬️
 Blow gently toward your laptop or phone’s mic. You'll see the candles estinguish one by one forming clouds of smoke, 
 an explotion of confetti, and the song "Happy Birthday" will play in the background. 
-If you wish, you can also press the "Save Memory 📸" button to create a .png screenshot.
 
 
 
